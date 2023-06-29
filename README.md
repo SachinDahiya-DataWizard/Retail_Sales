@@ -27,8 +27,12 @@ The Sales Performance Analytics project has vast potential for further analysis 
 
 # Contact
 For any inquiries, suggestions, or collaboration opportunities, please feel free to reach out to the project maintainer:
-Name: Sachin Dahiya 
+Name: Sachin Dahiya
+
 GitHub: [Data Wizard](https://github.com/SachinDahiya-DataWizard)
+
 Email: sdsachindahiya7@gmail.com
+
 Your contributions and interest in the Sales Performance Analytics project are highly appreciated.
+
 Enjoy exploring the Sales Performance Analytics project and uncovering valuable insights into your sales performance!
