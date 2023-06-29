@@ -20,7 +20,8 @@ The project leverages Excel and Tableau for data analysis and visualisation. Exc
 Through rigorous analysis, the Sales Performance Analytics project unveils key insights into product performance, regional sales trends, and sales representative effectiveness. The results are presented through visually appealing charts, graphs, and interactive dashboards, providing stakeholders with a clear understanding of sales performance and actionable insights to optimise sales strategies.
 
 # Getting Started
-To explore the project, you can access the sales performance dashboards and visualisations at the following link: Sales Performance Analytics Dashboard.
+To explore the project, you can access the sales performance dashboard and visualisations at the following link: [Retail Sales Dashboard](https://public.tableau.com/app/profile/sachin.dahiya/viz/OnlineRetailSalesAnalysis_16870588625390/OnlineRetailSalesAnalysis)
+.
 
 # Future Scope
 The Sales Performance Analytics project has vast potential for further analysis and improvement. Future work could involve incorporating advanced statistical modelling techniques, integrating external data sources for market analysis, and implementing real-time data feeds for dynamic performance monitoring.
