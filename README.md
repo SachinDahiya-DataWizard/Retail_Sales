@@ -1,6 +1,12 @@
 # Sales Performance Analytics Project
 This repository contains the Sales Performance Analytics project, which focuses on analysing sales data to gain valuable insights into product performance, sales regions, and sales representatives' effectiveness. The project aims to provide a comprehensive understanding of sales performance through data exploration, interactive dashboards, and performance prediction.
 
+Dashboard Link: [Retail Sales Dashboard](https://public.tableau.com/app/profile/sachin.dahiya/viz/OnlineRetailSalesAnalysis_16870588625390/OnlineRetailSalesAnalysis)
+
+Storyboard Link: [Retail Sales Storyboard](https://public.tableau.com/app/profile/sachin.dahiya/viz/OnlineRetailSalesStory/RetailSalesStory)
+
+DataSet Link: [Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
+
 # Project Overview
 The Sales Performance Analytics project is a data-driven initiative that aims to uncover hidden insights from sales data. By applying advanced analytics techniques, developing interactive dashboards, and utilising predictive modelling, this project provides a deep understanding of sales performance metrics, identifies key drivers of success, and enables data-driven decision-making for sales management.
 
@@ -21,8 +27,8 @@ The Sales Performance Analytics project has vast potential for further analysis 
 
 # Contact
 For any inquiries, suggestions, or collaboration opportunities, please feel free to reach out to the project maintainer:
-Name: [Your Name] 
-GitHub: [Your GitHub username] 
-Email: [Your Email Address]
+Name: Sachin Dahiya 
+GitHub: [Data Wizard](https://github.com/SachinDahiya-DataWizard)
+Email: sdsachindahiya7@gmail.com
 Your contributions and interest in the Sales Performance Analytics project are highly appreciated.
 Enjoy exploring the Sales Performance Analytics project and uncovering valuable insights into your sales performance!
